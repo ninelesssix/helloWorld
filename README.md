@@ -22,3 +22,20 @@ Nós oferecemos uma ampla variedade de serviços de desenvolvimento de software,
 Para entrar em contato conosco, visite o nosso site www.ninelesssix.com.br ou envie um e-mail para ninelesssix@gmail.com
 
 Espero que isso ajude! Não hesite em me informar se você tiver alguma dúvida ou precisar de mais ajuda.
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">  
+</div>
+ 
+ 
+<div> 
+<br>
+
+  <a href="https://www.instagram.com/the_uslipe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	
