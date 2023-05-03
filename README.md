@@ -1,4 +1,4 @@
-# Nine Less Six
+# Nine Less Six 💻⚙️
 
 Nine Less Six é uma startup de desenvolvimento de software que se concentra nas seguintes linguagens e tecnologias: .NET, C#, React, Next.js, Vue.js, ASP.NET, MySQL, SQL Server, HTML, CSS e JavaScript.
 
